@@ -4,11 +4,15 @@ import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } 
 
 import MainLayout from './layouts/MainLayout'
 import HomePage from './pages/HomePage'
+import ModulesPage from './pages/ModulesPage'
+import NotFoundPage from './pages/NotFoundPage'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={ <MainLayout />} >
       <Route index element={ <HomePage /> } />
+      <Route path='/modules' element={ <ModulesPage /> } />
+      <Route path='/*' element={ <NotFoundPage /> } />
     </Route>
   )
 )
