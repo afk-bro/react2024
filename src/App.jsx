@@ -1,18 +1,22 @@
 import React from 'react'
 
-import Navbar from './components/Navbar/Navbar'
-import Hero from './components/Hero/Hero'
-import HomeCards from './components/HomeCards'
-import HorizontalCard from './components/HorizontalCard'
+import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom'
+
+import MainLayout from './layouts/MainLayout'
+import HomePage from './pages/HomePage'
+
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route path='/' element={ <MainLayout />} >
+      <Route index element={ <HomePage /> } />
+    </Route>
+  )
+)
 
 const App = () => {
   return (
-    <>
-    <Navbar/>
-    <Hero />
-    <HorizontalCard />
-    <HomeCards />
-    </>
+
+    <RouterProvider router={router} />
 
   )
 }

@@ -1,0 +1,60 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "title": "Nouns",
+      "description": "In this module, you will learn about nouns, which are words that name people, places, things, or ideas. Explore different types of nouns such as common nouns (e.g., table, city), proper nouns (e.g., Mary, London), and abstract nouns (e.g., love, freedom). Understand how nouns function in sentences and practice identifying them.",
+      "difficulty": "Beginner",
+      "status": "90%"
+    },
+    {
+      "id": 2,
+      "title": "Verbs",
+      "description": "Discover the essential role of verbs in sentences as action or state words. This module covers regular and irregular verbs, verb conjugations, and verb forms in different tenses. Practice using verbs correctly in sentences to communicate actions and conditions effectively.",
+      "difficulty": "Intermediate",
+      "status": "85%"
+    },
+    {
+      "id": 3,
+      "title": "Verbs that are not verbs",
+      "description": "This module focuses on words that can function as verbs or other parts of speech depending on their usage and context. Learn about gerunds (e.g., swimming, reading), which act as nouns, and participles (e.g., broken, written), which can function as adjectives or parts of verb phrases.",
+      "difficulty": "Intermediate",
+      "status": "80%"
+    },
+    {
+      "id": 4,
+      "title": "Adjectives",
+      "description": "Explore the descriptive power of adjectives, which modify nouns and pronouns to provide more details about them. Learn about different types of adjectives, including descriptive adjectives (e.g., beautiful, tall), demonstrative adjectives (e.g., this, those), and possessive adjectives (e.g., my, their). Practice using adjectives effectively to enhance your writing and speaking.",
+      "difficulty": "Beginner",
+      "status": "88%"
+    },
+    {
+      "id": 5,
+      "title": "Adverbs",
+      "description": "Investigate adverbs, which modify verbs, adjectives, or other adverbs to provide more information about how, when, where, or to what extent something happens. This module covers different types of adverbs such as adverbs of manner (e.g., slowly, carefully), adverbs of time (e.g., now, later), and adverbs of degree (e.g., very, quite). Practice using adverbs appropriately to convey precise meanings in sentences.",
+      "difficulty": "Intermediate",
+      "status": "82%"
+    },
+    {
+      "id": 6,
+      "title": "Other Parts of Speech",
+      "description": "Explore various parts of speech beyond nouns, verbs, adjectives, and adverbs. This module covers conjunctions (e.g., and, but), prepositions (e.g., in, on), interjections (e.g., wow, ouch), and articles (e.g., a, an, the). Understand how each part of speech functions in sentences and practice using them correctly.",
+      "difficulty": "Intermediate",
+      "status": "75%"
+    },
+    {
+      "id": 7,
+      "title": "Present, Past, and Future Tenses",
+      "description": "Master the different verb tenses used to indicate when actions or states occur. This module covers present tenses (simple present, present continuous, present perfect), past tenses (simple past, past continuous, past perfect), and future tenses (simple future, future continuous, future perfect). Practice forming sentences in each tense to express actions or conditions accurately.",
+      "difficulty": "Intermediate",
+      "status": "78%"
+    },
+    {
+      "id": 8,
+      "title": "Conditionals",
+      "description": "Learn about conditional sentences, which express hypothetical situations and their outcomes. This module covers different types of conditionals such as zero conditional (e.g., If you heat water to 100 degrees, it boils), first conditional (e.g., If it rains, I will take an umbrella), second conditional (e.g., If I were you, I would call him), and third conditional (e.g., If I had known, I would have come). Practice constructing conditional sentences to speculate and discuss imaginary or past events.",
+      "difficulty": "Intermediate",
+      "status": "80%"
+    }
+  ]
+}
