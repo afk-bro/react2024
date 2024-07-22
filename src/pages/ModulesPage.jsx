@@ -1,6 +1,5 @@
 import React from 'react'
 
-import modules from '../../modules.json'
 import ModuleListings from '../components/ModuleListings'
 
 const ModulesPage = () => {
